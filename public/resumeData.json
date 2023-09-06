@@ -1,184 +1,176 @@
 {
   "main": {
-    "name":"Nordic-Giant Project",
-    "description":"I am a web development engineer and I use react and vue.js to develop pages. This project is a resume template that can be used as the project home page or resume page",
+    "name":"Harsh Dubey",
+    "description":"Fullstack Web Developer and Flutter Enthusiast 🚀",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
-    "github":"https://github.com/nordicgiant2/react-nice-resume",
-    "project":"https://github.com/nordicgiant2/react-nice-resume",
+    "bio":"Passionate about creating digital experiences that blend creativity and functionality, I am a Fullstack Web Developer with a strong foundation in front-end and back-end development. But my love for coding extends beyond the web. I'm also a devoted Flutter Developer, specializing in crafting cross-platform mobile apps that are as beautiful as they are functional.",
+    "contactmessage":"Get in Touch",
+    "email": "harshdubey1011@gmail.com",
+    "phone": "9770304549",
+    "github":"https://www.github.com/HarshDubey1011",
+    "project":"https://www.github.com/HarshDubey1011",
     "address":{
-      "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "street":"Ward  07 DDU Colony Anuppur",
+      "city":"Anuppur",
+      "state":"Madhya Pradesh",
+      "zip": "484224"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "website": "",
+    "resumedownload":"Harsh-Resume.pdf",
     "social":[
       {
-        "name":"facebook",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
-        "className":"fa fa-facebook"
-      },
-      {
         "name":"twitter",
-        "url":"http://twitter.com",
+        "url":"https://twitter.com/harshdu10085463",
         "className":"fa fa-twitter"
       },
       {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"https://www.linkedin.com/in/harsh-dubey-4a671227b/",
         "className":"fa fa-linkedin"
       },
       {
         "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
+        "url":"https://www.instagram.com/_harsh_dubey_10/",
         "className":"fa fa-instagram"
       },
       {
         "name":"github",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "url":"https://github.com/HarshDubey1011",
         "className":"fa fa-github"
       }
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2017",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"Bhilai Institute of Technology Raipur",
+        "degree":"Bachelor in Computer Science and Engineering",
+        "graduated":"2020-2024",
+        "description":"I have done B.Tech in Computer Science and Engineering, where I acquired valuable skills in areas such as data structures, database management systems (DBMS), compiler design, and networking."
       },
       {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2013",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"Academic World School",
+        "degree":"I have completed My Higher secondary education",
+        "graduated":"2017-2019",
+        "description":"I have gained substantial experience during my time in school, where I acquired a diverse set of skills like MySQL and Java."
       }
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2018 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Oasis Infobyte",
+        "title":"Internship",
+        "years":"July 2023 - August 2023",
+        "description":"Completed Internship at Oasis Infobyte, gaining hands-on experience in web development. Proficiently utilized HTML, CSS, and JavaScript to create and enhance web pages, demonstrating a strong grasp of front-end technologies."
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2017 - February 2018",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Bharat Intern",
+        "title":"Internship",
+        "years":"August 2023 - September 2023",
+        "description":"Completed Internship at Bharat Intern, where I acquired practical insights into web development methodologies, fostering skills that are essential for modern web development practices."
+      },
+      {
+        "company": "Open Source",
+        "title": "Open Source Contributor",
+        "years": "2020-Present",
+        "description": "Contributed to various open-source projects, demonstrating a commitment to the global developer community. Gained proficiency in version control systems like Git while adhering to established coding standards and best practices. Contributed code, documentation, and bug reports to open-source repositories on platforms such as GitHub, making meaningful contributions to the open-source ecosystem."
+      },
+      {
+        "company": "Leetcode and HackerRank",
+        "title": "Problem Solver",
+        "years": "2021-Present",
+        "description": "Developed strong problem-solving skills through regular practice on coding platforms such as LeetCode and HackerRank. Applied knowledge gained from these platforms to real-world projects, effectively optimizing code and improving software efficiency."
       }
+
     ],
     "skills":[
       {
-        "name":"Python",
-        "level":"60%"
-      },
-      {
-        "name":"VueJs",
-        "level":"55%"
+        "name":"Javascript",
+        "level":"70%"
       },
       {
         "name":"ReactJs",
+        "level":"60%"
+      },
+      {
+        "name":"Flutter",
         "level":"50%"
+      },
+      {
+        "name": "Node",
+        "level": "60%"
+      },
+      {
+        "name":"Linux",
+        "level":"60%"
       },
       {
         "name":"CSS",
-        "level":"90%"
+        "level":"70%"
       },
       {
-        "name":"PHP",
-        "level":"80%"
+        "name":"MySQL",
+        "level":"70%"
       },
       {
-        "name":"Swift",
+        "name":"Express Js",
         "level":"50%"
       },
       {
-        "name":"JAVA",
-        "level":"80%"
+        "name":"MongoDB",
+        "level":"40%"
       }
     ]
   },
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"01.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title":"Omnifood",
+        "category":"A Frontend Restaurant Website ",
+        "image":"Omnifood.png",
+        "url":"https://effervescent-torte-454e6a.netlify.app/"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"02.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"TRVL",
+        "category":"A frontend responsive website",
+        "image":"TRVL.png",
+        "url":"https://trvl-harshdubey1011.vercel.app/"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"03.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "title":"Notes App",
+        "category":"Simple notes app to make your notes",
+        "image":"react-notes.png",
+        "url":"https://notes-app-three-topaz.vercel.app/"
       },
       {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"04.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"Breakout Game",
+        "category":"Breakout Game Using Vanilla Javascript",
+        "image":"Breakout-Game.png",
+        "url":"https://breakout-game-alpha.vercel.app/"
       },
       {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"05.jpg",
-        "url":"http://www.smirkspace.com"
+        "title":"Blog",
+        "category":"A blog project made using Django",
+        "image":"Blog.png",
+        "url":"https://blog-project-git-main-harshdubey1011.vercel.app/"
       },
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"06.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title":"Microsoft Surface Clone",
+        "category": "A simple website made using HTML and CSS",
+        "image":"Microsoft-Clone.png",
+        "url":"https://www.canadianwanderlust.co"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"01.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"Quote Generator",
+        "category":"A random quote generator made using react",
+        "image": "quote-generator.png",
+        "url":"https://randomquotegenearatorapp.netlify.app/"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"02.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"03.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"04.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"05.jpg",
-        "url":"http://www.smirkspace.com"
-      },
-      {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"06.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title":"Loruki",
+        "category":"A simple website made using HTML, CSS and Javascript",
+        "image":"Loruki-Clone.png",
+        "url":"https://fabulous-meringue-68eb6d.netlify.app/"
       }
     ]
   }

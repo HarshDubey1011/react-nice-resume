@@ -276,6 +276,10 @@ ul#nav li.current a { color: #fe6928; }
    margin-top: 6px;
 }
 
+.description{
+   line-height: 1.6;
+}
+
 /*----------------------------------------------*/
 /*	Skill Bars
 /*----------------------------------------------*/
@@ -646,7 +650,7 @@ call-to-action .button {
    background-attachment: fixed;
 
    position: relative;
-   min-height: 200px;
+   min-height: 100px;
    width: 100%;
    overflow: hidden;
 }
